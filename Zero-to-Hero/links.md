@@ -8,7 +8,7 @@ Links that where shared during the presentation:
 <br>
 
 ### IT Trends and Challenges
-
+<Br>
 <B>AI</B>
 - [Gartner - top technology trends 2025](https://www.gartner.com/en/articles/top-technology-trends-2025)
 - [Azure AI solutions](https://azure.microsoft.com/en-us/solutions/ai)
@@ -33,7 +33,7 @@ Links that where shared during the presentation:
 <br>
 
 ### Changing the mindset 
-
+<br>
 <B>Zero Trust principle</B>
 - [Shared responsibility model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
 - [Build the first layer of defense](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-security-build-first-layer-defense)
@@ -57,7 +57,7 @@ Links that where shared during the presentation:
 
 
 ### Best Practices
-
+<br>
 <B>Governance</B>
 - [Azure Governance](https://azure.microsoft.com/en-us/solutions/governance)
 [Concepts of security, compliance, and identity](https://learn.microsoft.com/en-us/training/paths/describe-concepts-of-security-compliance-identity/)
@@ -67,6 +67,7 @@ Links that where shared during the presentation:
 <B>Networking</B>
 - [Azure DDoS Protection tiers](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-sku-comparison)
 - [Azure Firewall Skus](https://learn.microsoft.com/en-us/azure/firewall/choose-firewall-sku)
+- [Managed OWAS rules](https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-crs-rulegroups-rules?tabs=drs21%2Cowasp30)
 - [NSG](https://learn.microsoft.com/en-us/training/modules/describe-basic-security-capabilities-azure/6-describe-azure-network-security-groups)
 
 <br>
