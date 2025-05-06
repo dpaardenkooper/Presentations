@@ -9,6 +9,8 @@ Links that where shared during the presentation:
 
 ### IT Trends and Challenges
 
+<br>
+
 <B>AI</B>
 - [Gartner - top technology trends 2025](https://www.gartner.com/en/articles/top-technology-trends-2025)
 - [Azure AI solutions](https://azure.microsoft.com/en-us/solutions/ai)
@@ -34,6 +36,8 @@ Links that where shared during the presentation:
 
 ### Changing the mindset 
 
+<br>
+
 <B>Zero Trust principle</B>
 - [Shared responsibility model](https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
 - [Build the first layer of defense](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-security-build-first-layer-defense)
@@ -57,6 +61,8 @@ Links that where shared during the presentation:
 
 
 ### Best Practices
+
+<br>
 
 <B>Governance</B>
 - [Azure Governance](https://azure.microsoft.com/en-us/solutions/governance)
